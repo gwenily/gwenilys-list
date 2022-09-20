@@ -1,4 +1,4 @@
-# Gwenily's Grab Bag
+# Gwenily's List
 
 - Please ensure you use [uBlock Origin](https://github.com/gorhill/uBlock) to access any of the websites listed here, otherwise, you will have a bad time. (To be honest, you should always have this in general).
 - Notice any typos, errors, broken links, or out of date info? Have suggestions or questions? Please contact me on [to add]!
