@@ -179,7 +179,7 @@
 - [Sumo](https://sumo.app/) Similar to Photopea in that it's a suite of creation tools that run in browser. Has apps for paint, pixelart, music, audio, video, code, 3D, and photos. Check the app dropdown menu at the top banner of the page. I'll be honest, I dont use it myself, but someone recommended it to me and it seems nice.
 - [Erowid](https://www.erowid.org/) A website dedicated to harm-reduction and education for a number of drugs. Includes sitable and non-sitable information (such as personal experiences, opinion pieces, media writings, etc., etc.,)
 - [MyTime.io](https://mytime.io/) great for creating one link that a bunch of people in different timezones can use to coordinate. Basically, you format the url as something like mytime.io/13:00/PT or mytime.io/1pm/PT to have 1pm PT conveted into your timezone automatically. It'll give the correct time for anyone connecting. Be sure to turn off your VPN and tell everyone else to as well for it to work!
-- [Just The Recepie](https://www.justtherecipe.com/) Paste in a recipe from a recipe site and remove all of their bullshit lifestories and clutter
+- [Just The Recipe](https://www.justtherecipe.com/) Paste in a recipe from a recipe site and remove all of their bullshit lifestories and clutter
 - [Reddit](https://www.reddit.com) A website you're probably using wrong. It's invaluable for finding information within or about a given hobby, product, or niche. Tired of shitty listicles you get from your search engine when you just want to know what a good xyz is? Or how to fix a problem? or-- Reddit. Literally just add `site:reddit.com` to your searches (or whatever the format is in your favorite search engine is) and you'll get better results.
 
 
