@@ -10,12 +10,14 @@
 - I also recommend bookmarking the page if you like it!
 
 ## Contents
-- [General-Piracy](#general-piracy)
+- [General Piracy](#general-piracy)
     - [Media-Servers](#media-servers)
-- [Videogames](#videogames)
+- [Videogames](#video-games)
     - [Piracy](#videogame-piracy)
     - [Emulation](#videogame-emulation)
-    - [Mods, Homebrew, Misc](#videogame-mods-homebrew-misc)
+    - [Mods](#video-game-mods)
+    - [Homebrew](#video-game-homebrew)
+    - [Misc.](#video-game-misc.)
 - [Privacy](#privacy)
     - [VPNs](#vpns)
 - [Addons](#addons)
@@ -27,7 +29,7 @@
 - [Other](#other)
 
 
-## General-Piracy
+## General Piracy
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) A huge curated mega-list of piracy resources. Many of the links are outdated as the repo has been archived, but the source is incredibly invaluable none-the-less.
     - [Awesome](https://github.com/sindresorhus/awesome#readme) lists in general are very useful.
     - The author of Awesome Piracy has recommended some other mega-lists in the [repo's archival announcement](https://github.com/Igglybuff/awesome-piracy/issues/724), but I have yet to check them out myself.
@@ -40,16 +42,18 @@
 - [YayPonies](https://yayponies.no/) Piracy site for basically all official digital media for the My Little Pony franchise. shows, movies, comic books, bonus features, etc. They also link to sister sites hosting Bluey, Star Vs The Forces of Evil and Wander Over Yonder (and deprecated Ducktales and Steven Universe) content.
 - [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) Microsoft supplys free download links to much of their software (including [Windows 11](https://www.microsoft.com/software-download/windows11)) on their website, however they'll be unactivated "trail" versions. However, the DRM is virtually non-existant, so you can use this tool that'll just tell the software "i paid for you" and the software goes "oh ok lol".
 
-### Media-Servers
+### Media Servers
 - [Jellyfin](https://jellyfin.org/) Basically, host your own damn netflix, with blackjack and hookers! Free open source software, lets you stream media from your own server. You can even just give family and friends the website, username, and password, and they can stream your library too. Movies, Tv, Music, as well as a group watch feature which automatically syncs the video between viewers in case you're watching online together and dont want to have to manually sync every time someone wants to pause. Supports [a ton of devices](https://jellyfin.org/clients/).
 - [Plex](https://www.plex.tv) Similar to jellyfin, but with more bells, whistles, and plug-in support. Unfortunately, not open source, and contains paywalled features. I don't like it as much, but it's valid.
     - [dizquetv](https://github.com/vexorian/dizquetv) A plug-in for plex which lets you create a live "TV channel" autopopulated from content on your plex server. You could even add TV Bumpers.
     - [Retroarcher](https://github.com/RetroArcher) A plug-in for plex which also lets you stream videogames. Under heavy development. I haven't used it myself, but it seems cool.
 
 
-## Videogames
+## Video Games
+- [Super Lesbian Animal RPG](https://slarpg.com/) Everyone must play this. An RPGMaker game by Ponnet (aka Bobby), the author of [Thanks Ken Penders](https://www.tumblr.com/thankskenpenders). With [music](https://beatrixquinn.bandcamp.com/album/super-lesbian-animal-rpg-ost) by Beatrix Quinn. Give it a shot if you like "quirky earthbound inspired RPGs" or gay people. Fuck elden ring, it's my GOTY 2022. Be sure to read the (short) [official prologue comic](https://slarpg.com/comic) before you start.
+    - Bobby recommends joy2key if you want to use a controller. Do NOT do this. Use steam input with community uploaded profiles (or make your own). If you don't own the game on steam, add it as a non-steam game. Also, dont play on 1.5x or 2x unless you really need to fill the screen, it stretches the pixels (blame RPGMaker for both of these limitations.). If you read this far, there's sort of an easter egg if you try to go to melody's real tumblr page featured her in-game laptop :3
 
-### Videogame-Piracy
+### Video Game Piracy
 - [Old Games Finder](http://www.oldgamesfinder.com/) Search engine to find copies of old PC games. Some sites it may lead you to are paid, but not all.
 - [No-Intro Romsets](https://archive.org/details/no-intro_romsets) No-Intro is the standard for making sure your roms are clean, but they dont provide roms. This is a database of roms that match no-intro's official set.
 - [Patched English Translation ROMs](https://archive.org/details/En-ROMs) English fan translations of various games, prepatched and ready to go.
@@ -64,7 +68,7 @@
 - [Fitgirl Repacks](https://fitgirl-repacks.site/) Repacks for more modern games. (Repacks are compressed versions of games, meaning they're inherently not going to be fully accurate, but I've rarely had problems). As for other repackers, fitgirl endources RG Mechanics, RG Revenants, RG Catalyst, Xatab, El Amigos, Kapital Sin, and KaosKrew (rips). However I've never had to use them.
 - [Free GOG Games](https://freegogpcgames.com/) Free release for every game on GOG, since they're all DRM free.
 
-### Videogame-Emulation
+### Video Game Emulation
 - [Emulation Wiki](https://emulation.gametechwiki.com/) A wiki on videogame emulation. Extremely useful if you want to compare and contrast features of emulators for a given console. Especially good for figuring out what the best given emulator for a console is.
 - [Retroarch](https://www.retroarch.com/) The frontend for libretro. Nice if you want to have all your retro games in one place, navigatable with a controller, and especially useful if you're looking to use it's unique features (netplay, shaders, etc). Download emulators as cores from within the program, scan for your games, and then run the game with their respective core. Easier than it sounds. I prefer it to standalone counterparts for most emulators, but not all. Also sick for emulating on console, I have retroarch installed on my Switch, for example. Switch Online SNES and NES library be damned. 
      - I would like to note however, that if you do not need to use retroarch, I would avoid it. There's been a lot of claims of abusive behavior from one of the lead developers, TwinAphex. Including potentially contributing to Near's suicide, and driving devs to quit projects and leave the emu scene (ex duckstation's lead developer). I'm having trouble finding much definitive information on it all, but I'd be remiss not to mention it. Hopefully the scene creates a competetive alternative some day. If you're on mac, I'd recommend [OpenEmu](https://openemu.org/) above retroarch in most cases anyhow.
@@ -75,19 +79,7 @@
 - [EmuVR](https://www.emuvr.net/) Play games emulated using libretro in a VR environment. You can actually play light gun games [showcase](https://youtu.be/cXqt2J9iJOk)! Also just really cool. simulated CRT televisions and atpmospheric lighting [showcase](https://youtu.be/025i3r6zjjI), netplay [showcase](https://youtu.be/xZsBaOFi9vM), and even adding videos and music as VHS, DVD, and CD objects, as well as internet tv channels. I've seen people having cartoons running in the background on a tv in one corner while they play super nintendo in the other. it's really neat.
 - [VBjin-OVR](https://github.com/braindx/vbjin-ovr) Play virtual boy games in VR, which basically re-enables the 3D effect and the VR effect since that's what the virtual boy was going for. You can change the colors to black and white if you want, too. Virtual Boy Wario Land is trapped on that thing, and that game is worth playing, so yeah.
 
-### Videogame-Mods-Homebrew-Misc
-- [Hacking & Homebrew resources](https://rentry.co/Guides) From the homebrew threads on 4chan's /vg/ board. Follow any guide here for it's respective console and you wont have any trouble if you have basic reading comprehension. Also provides links to piracy websites in the post-instillation sections.
-    - [webcfw](https://webcfw.sdsetup.com/) Nintendo Switch Payload Loader that works in chromium browsers. For booting into cfw. Not mentioned above so I thought I'd drop it here.
-- [Rompatcher.js](https://www.marcrobledo.com/RomPatcher.js/) Some of the listings in this section may require you to patch a rom, use this tool to do so.
-- [SteamGridDB](https://www.steamgriddb.com/) Database of cover assets for Steam, since a lot of games are missing covers and the like. Includes non-steam games as well, in case you put those in your steam library.
-    - [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) Useful for bulk adding non-steam games (such as retro games) to your steam library with image assets pulled from SteamGridDB
-- [Pretendo Network](https://pretendo.network/) 3DS and WiiU homebrew. a free replacement to nintendo's servers. Play games online, etc. Heavy WIP but extremely promising.
-- [Sudomemo](https://www.sudomemo.net/) Brings the DSi's flipnote hatena service back online with community-run servers, has support for both DSi and 3DS! People are posting great stuff! [Example 1](https://x.com/Sudomemo/status/1619133335892271105), [Example 2](https://x.com/Sudomemo/status/1614080179311366146), [Example 3](https://x.com/parrygripp/status/1591189786555224064)
-    - [Sudomemo Archive](https://archive.sudomemo.net) An archive of virtually every flipnote ever that was on the flipnote hetena servers when it shut down.
-    - [Kaeru World](https://gallery.kaeru.world) is ran by a different team. Same idea as sudomemo, but for Flipnote's sequel Flipnote 3D. Less active, still cool.
-- [riiconnect24](https://rc24.xyz) Wii homebrew. Brings back support for utility channels, such as forecast, news, everybody votes, check mii out, and mail
-- [wiimmfi](https://wiimmfi.de) Wii homebrew. Brings nintendo Wii and DS game servers back online, too! (anything that used WFC)
-    - [CGTP-R](https://www.chadsoft.co.uk/) A widely installed mod for Mario Kart Wii with a lively online community via wiimmfi Adds over 200 new tracks to the game. [2019 Trailer](https://youtu.be/8R7B51s74WA)
+### Video Game Mods
 - [Sonic Adventure DX Mod Loader](https://sadxmodinstaller.unreliable.network/) Sonic Adventure DX infamously has [numerous problems](https://www.youtube.com/watch?v=SORYL5J1Heg) compared to the Dreamcast original. The Sonic Adventure Mod Loader comes bundled with a ton of fixes that bring it in line with the dream cast original, and also provides optional enhancements as well. And of course, allows you to install mods in general. Playing on PC with the mod loader is the definitive way to play Sonic Adventure.
 - [Sonic 3 A.I.R.](https://sonic3air.org/) a fan-made widescreen remaster of Sonic 3 & Knuckles. The definitive way to play. A steam/cd copy of the original game is required, for example: [S3&K.bin](https://archive.org/details/sonic-knuckles-w-sonic-3)
 - [Widescreen Super Mario World](https://github.com/VitorVilela7/wide-snes) Super Mario World in widescreen. 16:9, ultra-wide, you name it. [Showcase](https://youtu.be/ghAPgz-jV04), [Unpatched ROM](https://archive.org/download/super-mario-world_202204/Super%20Mario%20World%20%28U%29%20%5B%21%5D.zip)
@@ -107,11 +99,26 @@
     - [Kaze's Profile](https://romhacking.com/user/Kaze) Kaze is an extremely talented romhacker for SM64. He's the author behind star road, chaos edition, and the afformationed 60fps mod. His [YouTube Channel](https://www.youtube.com/kazeemanuar) has some super interesting showcases, behind the scenes, and more.
 - [Super Mario 64 PC Port Info](https://www.sm64pc.info) a website hosting info on Super Mario 64's [PC Port](https://github.com/sm64-port/sm64-port), which is based on the game's [decomp](https://github.com/n64decomp/sm64). The pc port allows the game to play natively on pc in 60fps and widescreen, rather than in emulator. Lets you use a number of other enhancements as well. [Unpatched Super Mario 64 ROM](https://archive.org/details/super-mario-64-u_202101).
     - [Project SGI / Render96](https://github.com/Render96/Render96ex/wiki) A gorgeous mod for the PC Port that makes the game look like the Silicon Graphics Inc. 1996 renders (such as the game's boxart). When following the tutorial use the [latest](https://github.com/msys2/msys2-installer/releases/tag/nightly-x86_64) version of MSYS2 instead of the one they link to directly. Check out this [showcase](https://youtu.be/Lav8wgQP9rc)
-- [Earthbound Battle Backgrounds](https://www.gjtorikian.com/Earthbound-Battle-Backgrounds-JS/) Generator for moving earthbound backgrounds. up/down/left/right arrows for controlls.
+
+### Video Game Homebrew
+- [Hacking & Homebrew resources](https://rentry.co/Guides) From the homebrew threads on 4chan's /vg/ board. Follow any guide here for it's respective console and you wont have any trouble if you have basic reading comprehension. Also provides links to piracy websites in the post-instillation sections.
+    - [webcfw](https://webcfw.sdsetup.com/) Nintendo Switch Payload Loader that works in chromium browsers. For booting into cfw. Not mentioned above so I thought I'd drop it here.
+- [Pretendo Network](https://pretendo.network/) 3DS and WiiU homebrew. a free replacement to nintendo's servers. Play games online, etc. Heavy WIP but extremely promising.
+- [riiconnect24](https://rc24.xyz) Wii homebrew. Brings back support for utility channels, such as forecast, news, everybody votes, check mii out, and mail
+- [wiimmfi](https://wiimmfi.de) Wii homebrew. Brings nintendo Wii and DS game servers back online, too! (anything that used WFC)
+    - [CGTP-R](https://www.chadsoft.co.uk/) A widely installed mod for Mario Kart Wii with a lively online community via wiimmfi Adds over 200 new tracks to the game. [2019 Trailer](https://youtu.be/8R7B51s74WA)
+
+### Video Game Misc.
+- [Rompatcher.js](https://www.marcrobledo.com/RomPatcher.js/) Some of the listings in this section may require you to patch a rom, use this tool to do so.
+- [SteamGridDB](https://www.steamgriddb.com/) Database of cover assets for Steam, since a lot of games are missing covers and the like. Includes non-steam games as well, in case you put those in your steam library.
+    - [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) Useful for bulk adding non-steam games (such as retro games) to your steam library with image assets pulled from SteamGridDB
+- [Sudomemo](https://www.sudomemo.net/) Brings the DSi's flipnote hatena service back online with community-run servers, has support for both DSi and 3DS! People are posting great stuff! [Example 1](https://x.com/Sudomemo/status/1619133335892271105), [Example 2](https://x.com/Sudomemo/status/1614080179311366146), [Example 3](https://x.com/parrygripp/status/1591189786555224064)
+    - [Sudomemo Archive](https://archive.sudomemo.net) An archive of virtually every flipnote ever that was on the flipnote hetena servers when it shut down.
+    - [Kaeru World](https://gallery.kaeru.world) is ran by a different team. Same idea as sudomemo, but for Flipnote's sequel Flipnote 3D. Less active, still cool.
 - [Death Generator](http://deathgenerator.com/) Also known as Sierra Text Generator. Lets you create custom text boxes in the style of a ton of different games.
 - [NoClip](https://noclip.website/) Lets you look around 3D environments in browser for a ton of games you absolutely played growing up as if you were using noclip in source.
-- [Super Lesbian Animal RPG](https://slarpg.com/) SLARPG doesn't belong here, but it's my list and you can't stop me. Everyone must play this. An RPGMaker game by Ponnet (aka Bobby), the author of [Thanks Ken Penders](https://www.tumblr.com/thankskenpenders). With [music](https://beatrixquinn.bandcamp.com/album/super-lesbian-animal-rpg-ost) by Beatrix Quinn. Give it a shot if you like "quirky earthbound inspired RPGs" or gay people. Fuck elden ring, it's my GOTY 2022. Be sure to read the (short) [official prologue comic](https://slarpg.com/comic) before you start.
-    - Bobby recommends joy2key if you want to use a controller. Do NOT do this. Use steam input with community uploaded profiles (or make your own). If you don't own the game on steam, add it as a non-steam game. Also, dont play on 1.5x or 2x unless you really need to fill the screen, it stretches the pixels (blame RPGMaker for both of these limitations.). If you read this far, there's sort of an easter egg if you try to go to melody's real tumblr page featured her in-game laptop :3
+- [Earthbound Battle Backgrounds](https://www.gjtorikian.com/Earthbound-Battle-Backgrounds-JS/) Generator for moving earthbound backgrounds. up/down/left/right arrows for controlls.
+
 
 ## Privacy
 - [Privacy Guides](https://privacyguides.org/) Basically the authority in protecting your privacy and making your digital life more secure, in my opinion.
@@ -138,7 +145,7 @@
 
 ## Addons
 
-### Browser-Extensions
+### Browser Extensions
 - [uBlock Origin](https://ublockorigin.com/) Adblocker, malware blocker, and tracker blocker. Blocks the visible AND invisible shittyness that comes with ads and other bullshit like them. A must install.
 - [Image Search Options](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/) Reverse image searcher, super useful since google doesn't always give you the image you're looking for.
 - [Sponsorblock](https://sponsor.ajay.app/) Skip youtube sponsors. Works better than you'd think it would. Also offers options to skip recaps, non-music sections of music videos, self-promo, and more.
