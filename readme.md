@@ -6,6 +6,8 @@
 ## What is this list, How do i use it?
 - This list is basically just a collection of things I personally use, or think are useful, cool, or neat! I made it to both shine light on things I think deserve more attention, and to provide those I know with a useful list about how to do things or what services are good.
 - Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
+- I recommend middle clicking links to open in a new tab, especially for entries with multiple links
+- I also recommend bookmarking the page if you like it!
 
 ## Contents
 - [General-Piracy](#general-piracy)
