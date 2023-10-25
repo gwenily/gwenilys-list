@@ -11,8 +11,8 @@
 
 ## Contents
 - [General Piracy](#general-piracy)
-    - [Media-Servers](#media-servers)
-- [Videogames](#video-games)
+    - [Media Servers](#media-servers)
+- [Video Games](#video-games)
     - [Piracy](#videogame-piracy)
     - [Emulation](#videogame-emulation)
     - [Mods](#video-game-mods)
