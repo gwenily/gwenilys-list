@@ -17,7 +17,7 @@
     - [Emulation](#videogame-emulation)
     - [Mods](#videogame-mods)
     - [Homebrew](#videogame-homebrew)
-    - [Misc.](#videogame-misc.)
+    - [Misc.](#videogame-misc)
 - [Privacy](#privacy)
     - [VPNs](#vpns)
 - [Addons](#addons)
