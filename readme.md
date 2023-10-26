@@ -12,12 +12,12 @@
 ## Contents
 - [General Piracy](#general-piracy)
     - [Media Servers](#media-servers)
-- [Video Games](#video-games)
+- [Videogames](#videogames)
     - [Piracy](#videogame-piracy)
     - [Emulation](#videogame-emulation)
-    - [Mods](#video-game-mods)
-    - [Homebrew](#video-game-homebrew)
-    - [Misc.](#video-game-misc.)
+    - [Mods](#videogame-mods)
+    - [Homebrew](#videogame-homebrew)
+    - [Misc.](#videogame-misc.)
 - [Privacy](#privacy)
     - [VPNs](#vpns)
 - [Addons](#addons)
@@ -49,11 +49,11 @@
     - [Retroarcher](https://github.com/RetroArcher) A plug-in for plex which also lets you stream videogames. Under heavy development. I haven't used it myself, but it seems cool.
 
 
-## Video Games
+## Videogames
 - [Super Lesbian Animal RPG](https://slarpg.com/) Everyone must play this. An RPGMaker game by Ponnet (aka Bobby), the author of [Thanks Ken Penders](https://www.tumblr.com/thankskenpenders). With [music](https://beatrixquinn.bandcamp.com/album/super-lesbian-animal-rpg-ost) by Beatrix Quinn. Give it a shot if you like "quirky earthbound inspired RPGs" or gay people. Fuck elden ring, it's my GOTY 2022. Be sure to read the (short) [official prologue comic](https://slarpg.com/comic) before you start.
     - Bobby recommends joy2key if you want to use a controller. Do NOT do this. Use steam input with community uploaded profiles (or make your own). If you don't own the game on steam, add it as a non-steam game. Also, dont play on 1.5x or 2x unless you really need to fill the screen, it stretches the pixels (blame RPGMaker for both of these limitations.). If you read this far, there's sort of an easter egg if you try to go to melody's real tumblr page featured her in-game laptop :3
 
-### Video Game Piracy
+### Videogame Piracy
 - [Old Games Finder](http://www.oldgamesfinder.com/) Search engine to find copies of old PC games. Some sites it may lead you to are paid, but not all.
 - [No-Intro Romsets](https://archive.org/details/no-intro_romsets) No-Intro is the standard for making sure your roms are clean, but they dont provide roms. This is a database of roms that match no-intro's official set.
 - [Patched English Translation ROMs](https://archive.org/details/En-ROMs) English fan translations of various games, prepatched and ready to go.
@@ -68,7 +68,7 @@
 - [Fitgirl Repacks](https://fitgirl-repacks.site/) Repacks for more modern games. (Repacks are compressed versions of games, meaning they're inherently not going to be fully accurate, but I've rarely had problems). As for other repackers, fitgirl endources RG Mechanics, RG Revenants, RG Catalyst, Xatab, El Amigos, Kapital Sin, and KaosKrew (rips). However I've never had to use them.
 - [Free GOG Games](https://freegogpcgames.com/) Free release for every game on GOG, since they're all DRM free.
 
-### Video Game Emulation
+### Videogame Emulation
 - [Emulation Wiki](https://emulation.gametechwiki.com/) A wiki on videogame emulation. Extremely useful if you want to compare and contrast features of emulators for a given console. Especially good for figuring out what the best given emulator for a console is.
 - [Retroarch](https://www.retroarch.com/) The frontend for libretro. Nice if you want to have all your retro games in one place, navigatable with a controller, and especially useful if you're looking to use it's unique features (netplay, shaders, etc). Download emulators as cores from within the program, scan for your games, and then run the game with their respective core. Easier than it sounds. I prefer it to standalone counterparts for most emulators, but not all. Also sick for emulating on console, I have retroarch installed on my Switch, for example. Switch Online SNES and NES library be damned. 
      - I would like to note however, that if you do not need to use retroarch, I would avoid it. There's been a lot of claims of abusive behavior from one of the lead developers, TwinAphex. Including potentially contributing to Near's suicide, and driving devs to quit projects and leave the emu scene (ex duckstation's lead developer). I'm having trouble finding much definitive information on it all, but I'd be remiss not to mention it. Hopefully the scene creates a competetive alternative some day. If you're on mac, I'd recommend [OpenEmu](https://openemu.org/) above retroarch in most cases anyhow.
@@ -79,7 +79,7 @@
 - [EmuVR](https://www.emuvr.net/) Play games emulated using libretro in a VR environment. You can actually play light gun games [showcase](https://youtu.be/cXqt2J9iJOk)! Also just really cool. simulated CRT televisions and atpmospheric lighting [showcase](https://youtu.be/025i3r6zjjI), netplay [showcase](https://youtu.be/xZsBaOFi9vM), and even adding videos and music as VHS, DVD, and CD objects, as well as internet tv channels. I've seen people having cartoons running in the background on a tv in one corner while they play super nintendo in the other. it's really neat.
 - [VBjin-OVR](https://github.com/braindx/vbjin-ovr) Play virtual boy games in VR, which basically re-enables the 3D effect and the VR effect since that's what the virtual boy was going for. You can change the colors to black and white if you want, too. Virtual Boy Wario Land is trapped on that thing, and that game is worth playing, so yeah.
 
-### Video Game Mods
+### Videogame Mods
 - [Sonic Adventure DX Mod Loader](https://sadxmodinstaller.unreliable.network/) Sonic Adventure DX infamously has [numerous problems](https://www.youtube.com/watch?v=SORYL5J1Heg) compared to the Dreamcast original. The Sonic Adventure Mod Loader comes bundled with a ton of fixes that bring it in line with the dream cast original, and also provides optional enhancements as well. And of course, allows you to install mods in general. Playing on PC with the mod loader is the definitive way to play Sonic Adventure.
 - [Sonic 3 A.I.R.](https://sonic3air.org/) a fan-made widescreen remaster of Sonic 3 & Knuckles. The definitive way to play. A steam/cd copy of the original game is required, for example: [S3&K.bin](https://archive.org/details/sonic-knuckles-w-sonic-3)
 - [Widescreen Super Mario World](https://github.com/VitorVilela7/wide-snes) Super Mario World in widescreen. 16:9, ultra-wide, you name it. [Showcase](https://youtu.be/ghAPgz-jV04), [Unpatched ROM](https://archive.org/download/super-mario-world_202204/Super%20Mario%20World%20%28U%29%20%5B%21%5D.zip)
@@ -100,7 +100,7 @@
 - [Super Mario 64 PC Port Info](https://www.sm64pc.info) a website hosting info on Super Mario 64's [PC Port](https://github.com/sm64-port/sm64-port), which is based on the game's [decomp](https://github.com/n64decomp/sm64). The pc port allows the game to play natively on pc in 60fps and widescreen, rather than in emulator. Lets you use a number of other enhancements as well. [Unpatched Super Mario 64 ROM](https://archive.org/details/super-mario-64-u_202101).
     - [Project SGI / Render96](https://github.com/Render96/Render96ex/wiki) A gorgeous mod for the PC Port that makes the game look like the Silicon Graphics Inc. 1996 renders (such as the game's boxart). When following the tutorial use the [latest](https://github.com/msys2/msys2-installer/releases/tag/nightly-x86_64) version of MSYS2 instead of the one they link to directly. Check out this [showcase](https://youtu.be/Lav8wgQP9rc)
 
-### Video Game Homebrew
+### Videogame Homebrew
 - [Hacking & Homebrew resources](https://rentry.co/Guides) From the homebrew threads on 4chan's /vg/ board. Follow any guide here for it's respective console and you wont have any trouble if you have basic reading comprehension. Also provides links to piracy websites in the post-instillation sections.
     - [webcfw](https://webcfw.sdsetup.com/) Nintendo Switch Payload Loader that works in chromium browsers. For booting into cfw. Not mentioned above so I thought I'd drop it here.
 - [Pretendo Network](https://pretendo.network/) 3DS and WiiU homebrew. a free replacement to nintendo's servers. Play games online, etc. Heavy WIP but extremely promising.
@@ -108,7 +108,7 @@
 - [wiimmfi](https://wiimmfi.de) Wii homebrew. Brings nintendo Wii and DS game servers back online, too! (anything that used WFC)
     - [CGTP-R](https://www.chadsoft.co.uk/) A widely installed mod for Mario Kart Wii with a lively online community via wiimmfi Adds over 200 new tracks to the game. [2019 Trailer](https://youtu.be/8R7B51s74WA)
 
-### Video Game Misc.
+### Videogame Misc.
 - [Rompatcher.js](https://www.marcrobledo.com/RomPatcher.js/) Some of the listings in this section may require you to patch a rom, use this tool to do so.
 - [SteamGridDB](https://www.steamgriddb.com/) Database of cover assets for Steam, since a lot of games are missing covers and the like. Includes non-steam games as well, in case you put those in your steam library.
     - [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) Useful for bulk adding non-steam games (such as retro games) to your steam library with image assets pulled from SteamGridDB
