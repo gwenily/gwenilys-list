@@ -50,8 +50,6 @@
 
 
 ## Videogames
-- [Super Lesbian Animal RPG](https://slarpg.com/) Everyone must play this. An RPGMaker game by Ponnet (aka Bobby), the author of [Thanks Ken Penders](https://www.tumblr.com/thankskenpenders). With [music](https://beatrixquinn.bandcamp.com/album/super-lesbian-animal-rpg-ost) by Beatrix Quinn. Give it a shot if you like "quirky earthbound inspired RPGs" or gay people. Fuck elden ring, it's my GOTY 2022. Be sure to read the (short) [official prologue comic](https://slarpg.com/comic) before you start.
-    - Bobby recommends joy2key if you want to use a controller. Do NOT do this. Use steam input with community uploaded profiles (or make your own). If you don't own the game on steam, add it as a non-steam game. Also, dont play on 1.5x or 2x unless you really need to fill the screen, it stretches the pixels (blame RPGMaker for both of these limitations.). If you read this far, there's sort of an easter egg if you try to go to melody's real tumblr page featured her in-game laptop :3
 
 ### Videogame Piracy
 - [Old Games Finder](http://www.oldgamesfinder.com/) Search engine to find copies of old PC games. Some sites it may lead you to are paid, but not all.
@@ -80,6 +78,7 @@
 - [VBjin-OVR](https://github.com/braindx/vbjin-ovr) Play virtual boy games in VR, which basically re-enables the 3D effect and the VR effect since that's what the virtual boy was going for. You can change the colors to black and white if you want, too. Virtual Boy Wario Land is trapped on that thing, and that game is worth playing, so yeah.
 
 ### Videogame Mods
+- [Rompatcher.js](https://www.marcrobledo.com/RomPatcher.js/) Some of the listings in this section may require you to patch a rom, use this tool to do so.
 - [Sonic Adventure DX Mod Loader](https://sadxmodinstaller.unreliable.network/) Sonic Adventure DX infamously has [numerous problems](https://www.youtube.com/watch?v=SORYL5J1Heg) compared to the Dreamcast original. The Sonic Adventure Mod Loader comes bundled with a ton of fixes that bring it in line with the dream cast original, and also provides optional enhancements as well. And of course, allows you to install mods in general. Playing on PC with the mod loader is the definitive way to play Sonic Adventure.
 - [Sonic 3 A.I.R.](https://sonic3air.org/) a fan-made widescreen remaster of Sonic 3 & Knuckles. The definitive way to play. A steam/cd copy of the original game is required, for example: [S3&K.bin](https://archive.org/details/sonic-knuckles-w-sonic-3)
 - [Widescreen Super Mario World](https://github.com/VitorVilela7/wide-snes) Super Mario World in widescreen. 16:9, ultra-wide, you name it. [Showcase](https://youtu.be/ghAPgz-jV04), [Unpatched ROM](https://archive.org/download/super-mario-world_202204/Super%20Mario%20World%20%28U%29%20%5B%21%5D.zip)
@@ -109,7 +108,6 @@
     - [CGTP-R](https://www.chadsoft.co.uk/) A widely installed mod for Mario Kart Wii with a lively online community via wiimmfi Adds over 200 new tracks to the game. [2019 Trailer](https://youtu.be/8R7B51s74WA)
 
 ### Videogame Misc.
-- [Rompatcher.js](https://www.marcrobledo.com/RomPatcher.js/) Some of the listings in this section may require you to patch a rom, use this tool to do so.
 - [SteamGridDB](https://www.steamgriddb.com/) Database of cover assets for Steam, since a lot of games are missing covers and the like. Includes non-steam games as well, in case you put those in your steam library.
     - [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) Useful for bulk adding non-steam games (such as retro games) to your steam library with image assets pulled from SteamGridDB
 - [Sudomemo](https://www.sudomemo.net/) Brings the DSi's flipnote hatena service back online with community-run servers, has support for both DSi and 3DS! People are posting great stuff! [Example 1](https://x.com/Sudomemo/status/1619133335892271105), [Example 2](https://x.com/Sudomemo/status/1614080179311366146), [Example 3](https://x.com/parrygripp/status/1591189786555224064)
@@ -118,6 +116,8 @@
 - [Death Generator](http://deathgenerator.com/) Also known as Sierra Text Generator. Lets you create custom text boxes in the style of a ton of different games.
 - [NoClip](https://noclip.website/) Lets you look around 3D environments in browser for a ton of games you absolutely played growing up as if you were using noclip in source.
 - [Earthbound Battle Backgrounds](https://www.gjtorikian.com/Earthbound-Battle-Backgrounds-JS/) Generator for moving earthbound backgrounds. up/down/left/right arrows for controlls.
+- [Super Lesbian Animal RPG](https://slarpg.com/) SLARPG doesn't really belong here but fuck you it's my list. Everyone must play this. An RPGMaker game by Ponnet (aka Bobby), the author of [Thanks Ken Penders](https://www.tumblr.com/thankskenpenders). With [music](https://beatrixquinn.bandcamp.com/album/super-lesbian-animal-rpg-ost) by Beatrix Quinn. Give it a shot if you like "quirky earthbound inspired RPGs" or gay people. Fuck elden ring, it's my GOTY 2022. Be sure to read the (short) [official prologue comic](https://slarpg.com/comic) before you start.
+    - Bobby recommends joy2key if you want to use a controller. Do NOT do this. Use steam input with community uploaded profiles (or make your own). If you don't own the game on steam, add it as a non-steam game. Also, dont play on 1.5x or 2x unless you really need to fill the screen, it stretches the pixels (blame RPGMaker for both of these limitations.). If you read this far, there's sort of an easter egg if you try to go to melody's real tumblr page featured her in-game laptop :3
 
 
 ## Privacy
