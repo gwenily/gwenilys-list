@@ -8,7 +8,7 @@ Do you have a question about one of the sites? Open an [issue](https://github.co
 Do you find this tool useful? Consider bookmark the page.
 
 ## What is this list?
-This list is a collection of things I use, think are useful, cool, or neat. I made it to both shine light on things that deserve more attention, and to provide peers with a useful list of tutorials, services, and tools.
+A collection of things I use, think are useful, or generally cool. I want to both shine light on things that deserve more attention and to provide peers with a useful list of tutorials, services, and tools.
 
 ## How do I use it?
 Some items could easily fit in more than one category. Use `Ctrl + F` (or `Cmd + F` on macOS) to find what you're looking for. Items are in no particular order. If you find something interesting, use middle click (open in new tab) to avoid losing this page.
