@@ -1,14 +1,15 @@
 # Gwenily's List
 
-- **Please ensure you use [uBlock Origin](https://github.com/gorhill/uBlock) to access most of the websites listed here**, otherwise, you will have a bad time. (To be honest, you should always have this in general).
-- Notice any typos, errors, broken links, or out of date info? Have suggestions or questions? Please [check here](https://github.com/gwenily/gwenilys-list/issues) and open an issue if someone else hasn't mentioned your comment already!
+## Use [uBlock Origin](https://github.com/gorhill/uBlock) before accessing any websites.
+Do you see any typos, broken links, or out-of-date information? Open an [issue](https://github.com/gwenily/gwenilys-list/issues), or create a [pull request](https://github.com/gwenily/gwenilys-list/fork).
+Do you have a question about one of the sites? Open an [issue](https://github.com/gwenily/gwenilys-list/issues).
+Do you find this tool useful? Consider bookmark the page.
 
-## What is this list, How do i use it?
-- This list is basically just a collection of things I personally use, or think are useful, cool, or neat! I made it to both shine light on things I think deserve more attention, and to provide those I know with a useful list about how to do things or what services are good.
-- Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
-- Items are in no particular order
-- I recommend middle clicking links to open in a new tab, especially for entries with multiple links
-- I also recommend bookmarking the page if you like it!
+## What is this list?
+This list is a collection of things I use, think are useful, cool, or neat. I made it to both shine light on things that deserve more attention, and to provide peers with a useful list of tutorials, services, and tools.
+
+## How do I use it?
+Some items could easily fit in more than one category. Use `Ctrl + F` (or `Cmd + F` on macOS). Items are in no particular order. If you find something interesting, use middle click (open in new tab) to avoid losing this page.
 
 ## Contents
 - [General Piracy](#general-piracy)
