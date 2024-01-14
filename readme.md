@@ -9,7 +9,7 @@ Do you find this tool useful? Consider bookmark the page.
 This list is a collection of things I use, think are useful, cool, or neat. I made it to both shine light on things that deserve more attention, and to provide peers with a useful list of tutorials, services, and tools.
 
 ## How do I use it?
-Some items could easily fit in more than one category. Use `Ctrl + F` (or `Cmd + F` on macOS). Items are in no particular order. If you find something interesting, use middle click (open in new tab) to avoid losing this page.
+Some items could easily fit in more than one category. Use `Ctrl + F` (or `Cmd + F` on macOS) to find what you're looking for. Items are in no particular order. If you find something interesting, use middle click (open in new tab) to avoid losing this page.
 
 ## Contents
 - [General Piracy](#general-piracy)
