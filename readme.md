@@ -2,7 +2,9 @@
 
 ## Use [uBlock Origin](https://github.com/gorhill/uBlock) before accessing any websites.
 Do you see any typos, broken links, or out-of-date information? Open an [issue](https://github.com/gwenily/gwenilys-list/issues), or create a [pull request](https://github.com/gwenily/gwenilys-list/fork).
+
 Do you have a question about one of the sites? Open an [issue](https://github.com/gwenily/gwenilys-list/issues).
+ 
 Do you find this tool useful? Consider bookmark the page.
 
 ## What is this list?
