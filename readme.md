@@ -1,14 +1,20 @@
 # Gwenily's List
 
-- **Please ensure you use [uBlock Origin](https://github.com/gorhill/uBlock) to access most of the websites listed here**, otherwise, you will have a bad time. (To be honest, you should always have this in general).
-- Notice any typos, errors, broken links, or out of date info? Have suggestions or questions? Please [check here](https://github.com/gwenily/gwenilys-list/issues) and open an issue if someone else hasn't mentioned your comment already!
+## Please install [uBlock Origin](https://github.com/gorhill/uBlock), regardless of if you use any resources listed here.
+uBlock is more than just an adblocker. It's a tracker blocker, malware blocker, phisher blocker. It's lightweight, and often makes virtually every site you visit faster as a result of removing stuff only meant to hurt you. Even aside from this list, but especially for resources in this list, you should have this installed.
 
-## What is this list, How do i use it?
-- This list is basically just a collection of things I personally use, or think are useful, cool, or neat! I made it to both shine light on things I think deserve more attention, and to provide those I know with a useful list about how to do things or what services are good.
-- Some items in this list could easily fit in more than one category, so to make sure you find what you're looking for please use `Ctrl + F` (or `Cmd + F` on macOS).
-- Items are in no particular order
-- I recommend middle clicking links to open in a new tab, especially for entries with multiple links
-- I also recommend bookmarking the page if you like it!
+## Notice any typos, broken links, or out-of-date information? 
+Please open an [issue](https://github.com/gwenily/gwenilys-list/issues), or create a [pull request](https://github.com/gwenily/gwenilys-list/fork).
+
+You may also open an [issue](https://github.com/gwenily/gwenilys-list/issues) if you have any questions, comments, or concerns.
+
+## What is this list?
+A collection of things I personally use, think are useful, or generally neat. I want to both shine light on things that deserve more attention and to provide peers with what amounts to a repository for services, tools, and even tutorials to some extent.
+
+## How do I use it?
+Some items could easily fit in more than one category. Use `Ctrl + F` (or `Cmd + F` on macOS) to find what you're looking for. Items are in no particular order. If you find something interesting, you can middle click it to open it in a new tab!
+
+Also, consider bookmarking this page if you find it valuable! Ironically enough i personally use it all the time, even though I made it x3
 
 ## Contents
 - [General Piracy](#general-piracy)
