@@ -1,17 +1,20 @@
 # Gwenily's List
 
-## Use [uBlock Origin](https://github.com/gorhill/uBlock) before accessing any websites.
-Do you see any typos, broken links, or out-of-date information? Open an [issue](https://github.com/gwenily/gwenilys-list/issues), or create a [pull request](https://github.com/gwenily/gwenilys-list/fork).
+## Please install [uBlock Origin](https://github.com/gorhill/uBlock), regardless of if you use any resources listed here.
+uBlock is more than just an adblocker. It's a tracker blocker, malware blocker, phisher blocker. It's lightweight, and often makes virtually every site you visit faster as a result of removing stuff only meant to hurt you. Even aside from this list, but especially for resources in this list, you should have this installed.
 
-Do you have a question about one of the sites? Open an [issue](https://github.com/gwenily/gwenilys-list/issues).
- 
-Do you find this tool useful? Consider bookmark the page.
+## Notice any typos, broken links, or out-of-date information? 
+Please open an [issue](https://github.com/gwenily/gwenilys-list/issues), or create a [pull request](https://github.com/gwenily/gwenilys-list/fork).
+
+You may also open an [issue](https://github.com/gwenily/gwenilys-list/issues) if you have any questions, comments, or concerns.
 
 ## What is this list?
-A collection of things I use, think are useful, or generally cool. I want to both shine light on things that deserve more attention and to provide peers with a useful list of tutorials, services, and tools.
+A collection of things I personally use, think are useful, or generally neat. I want to both shine light on things that deserve more attention and to provide peers with what amounts to a repository for services, tools, and even tutorials to some extent.
 
 ## How do I use it?
-Some items could easily fit in more than one category. Use `Ctrl + F` (or `Cmd + F` on macOS) to find what you're looking for. Items are in no particular order. If you find something interesting, use middle click (open in new tab) to avoid losing this page.
+Some items could easily fit in more than one category. Use `Ctrl + F` (or `Cmd + F` on macOS) to find what you're looking for. Items are in no particular order. If you find something interesting, you can middle click it to open it in a new tab!
+
+Also, consider bookmarking this page if you find it valuable! Ironically enough i personally use it all the time, even though I made it x3
 
 ## Contents
 - [General Piracy](#general-piracy)
