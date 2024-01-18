@@ -161,12 +161,13 @@ Also, consider bookmarking this page if you find it valuable! Ironically enough 
 
 ### VPNs
 - All entries in this section are taken from [This Techlore Video](https://youtu.be/cpjYN8Q7Mz8)
+- [Techlore's VPN Chart](https://www.techlore.tech/vpn) Easy to read, objective information on various popular or noteworthy VPN services.
 - [Do you really need a VPN?](https://i.imgur.com/VO7aob6.png) An infographic from IVPN's site.
-- [CalyxVPN](https://calyxinstitute.org/projects/digital-services/vpn) A free and private VPN. It and Riseup are the only free VPNs I trust. Unfortunately only has 1 location and can be slow. F-Droid app is available.
-- [RiseupVPN](https://riseup.net/en/vpn) A free and Private VPN. It and CalyxVPN are the only free VPNs I trust. Unfortunately has few locations and can be slow. F-Droid app is available.
-- [IVPN](https://www.ivpn.net/) Fast, private, no bullshit VPN that openly tells you what a VPN is and isn't good for and if you actually need one. Transparency reports, warrant canaries, 2FA, the works. Supports Wireguard. Email-less signup option. They have no affiliate plan. Many people who know what they're talking about consider it the best. Go with this or ProtonVPN, whichever gives you better speeds to be honest. Priced at $60/yr for standard and $100/yr for pro.
-- [Proton VPN](https://protonvpn.com/) Fast, private, no bullshit VPN. Transparency reports, warrant canaries, the works. No 2FA, unfortunately. Many people who know what they're talking about also consider it the best as well. Go with this or IVPN, whichever gives you better speeds to be honest. Ran by the ProtonMail team. Priced at $48/yr for basic and $96/yr for preimum at the time of writing.
+- [IVPN](https://www.ivpn.net/) Fast, private, no bullshit VPN that openly tells you what a VPN is and isn't good for and if you actually need one. Transparency reports, warrant canaries, 2FA, the works. Supports Wireguard. Email-less signup option. Many people who know what they're talking about consider it the best. Priced at $60/yr for standard and $100/yr for pro.
 - [Mullvad](https://mullvad.net) Great, but no transparency report, no warrant canaries, no 2FA. Otherwise fast and no bullshit VPN. Priced at €5/mo ($5.46/mo), which translates to €60/yr ($65.54/yr).
+- [Proton VPN](https://protonvpn.com/) Fast, private, no bullshit VPN. Transparency reports, warrant canaries, the works. No 2FA, unfortunately. Ran by the Proton Mail team. Priced at $48/yr for basic and $96/yr for preimum at the time of writing.
+- [RiseupVPN](https://riseup.net/en/vpn) A free and Private VPN. It and CalyxVPN are the only free VPNs I trust. Unfortunately has few locations and can be slow.
+- [CalyxVPN](https://calyxinstitute.org/projects/digital-services/vpn) A free and private VPN. It and Riseup are the only free VPNs I trust. Unfortunately only has 1 location and can be slow.
 
 
 ## Addons
