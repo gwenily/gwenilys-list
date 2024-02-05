@@ -153,7 +153,7 @@ Also, consider bookmarking this page if you find it valuable! Ironically enough 
 - [ReVanced](https://revanced.app/) A manager to apply mods to various android apps. Especially useful to remove ads on apps like YouTube. Most people prefer this over NewPipe since it lets you use the actual YouTube app (or any other apps it modifies).
 - [youtube-dlp](https://github.com/yt-dlp/yt-dlp) Command line program for downloading vids from youtube and [others](https://ytdl-org.github.io/youtube-dl/supportedsites.html), including mp3s and thumbnails. No more searching "youtube mp3 downloader" ever again.
 - [JDownloader](https://jdownloader.org/) Download manager. Scrape websites, read the clipboard for links to downloads, etc. Have them all in a neat list. Especially useful for archive.org collections or for when you have a slow internet connection.
-- [Handbreak](https://handbrake.fr/) Video transcoder. Compress, convert, etc. Throw videos in and choose which format you want and watch the filesize shrink.
+- [Handbrake](https://handbrake.fr/) Video transcoder. Compress, convert, etc. Throw videos in and choose which format you want and watch the filesize shrink.
 - [ShareX](https://getsharex.com/) Best screenshot software there is. Still sad there isn't a linux version.
 - [Open Broadcast Software (OBS)](https://obsproject.com/) Best video recording, screen recording, and streaming software there is. Pretty self-explanitory.
 - [List of Adobe Alternatives](https://twitter.com/XdanielArt/status/1434611199140896772) Sick list of alternatives to adobe suite software. Useful for linux or if you just hate adobe (But, of course, pirating their software will always be moral :P )
