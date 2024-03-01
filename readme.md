@@ -99,6 +99,7 @@ Also, consider bookmarking this page if you find it valuable! Ironically enough 
 - [Pretendo Network](https://pretendo.network/) 3DS and WiiU homebrew. a free replacement to nintendo's servers. Play games online, etc. Heavy WIP but extremely promising.
 - [riiconnect24](https://rc24.xyz) Wii homebrew. Brings back support for utility channels, such as forecast, news, everybody votes, check mii out, and mail
 - [wiimmfi](https://wiimmfi.de) Brings nintendo Wii and DS game servers back online. Mario Kart Wii is still especially popular, especially with CGTP-R which is listed below.
+- [Lan-Play.com](http://lan-play.com/) Play Nintendo Switch and PS4 games online by using LAN over the internet! No PSN or Nintendo Switch Online required. For switch, you dont even need to hack or install homebrew for any OFW (Official Firmware) games! For games labeled as use with CFW (Custom Firmware) only, you unfortunately must hack your switch to play LAN online, though. This is the only viable method I know of for playing pirated Nintendo Switch games online, or playing online with CFW in general. But yeah, wanna play online with someone specific? check this before subscribing to some nintendo paid online service :3
 
 ### Videogame Mods Enhancements and Re-Implementations
 - [Rompatcher.js](https://www.marcrobledo.com/RomPatcher.js/) Some listings here are romhacks and may require you to patch a rom, use this tool to do so. I dont supply the patched rom directly because many of these update over time.
