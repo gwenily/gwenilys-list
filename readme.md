@@ -239,7 +239,6 @@ Note: keeping your browser extensions to a minimum is good etiquette, so as to d
 ### Userscripts
 - [Tampermonkey scripts list](https://www.tampermonkey.net/scripts.php) Page listing resources for finding new userscripts.
 - [4chan X](https://www.4chan-x.net/) Chan boards it supports are basically unusable without it. Thread watcher, view full image on hover, board hotbar, catalogue default, keybinds. It's OP.
-- [Anti Adblock Killer](https://reek.github.io/anti-adblock-killer/) You know those pop-ups you get sometimes when using an adblocker? This helps to get rid of those. Install and forget.
 - [Chrome Dark Scrollbar and Audio Player](https://userstyles.org/styles/108298) I was having trouble getting chrome themes to have a dark scrollbar, so here's a userscript for getting a dark scrollbar on chrome.
 - [BetterTTV](https://betterttv.com/) More emotes, features, etc for twitch. Select "other" browser even if your browser is supported for the userscript.
 
