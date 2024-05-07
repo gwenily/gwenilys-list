@@ -161,6 +161,7 @@ Also, consider bookmarking this page if you find it valuable! Ironically enough 
 ### Hardware
 - [LTT PC Building Guide (2024)](https://youtu.be/s1fxZ-VWs2U) a sort of "choose your own adventure" style mega-video as a PC building guide, use youtube chapters to learn about whatever specific part you're interested in, or just watch the whole thing if you're starting from scratch.
 - [PC Master Race Explained in 9 minutes](https://www.youtube.com/watch?v=RRY1jrIDhvU) an incredibly entertaining animation styled to look like it was made in flipnote studio, which talks about the pros and cons of buying phones, laptops, gaming laptops, pre-built PCs, and custom-built PCs. Also talks a bit about right to repair. Highly recommend you give this a watch if you're in the market for a new device or care about computers at all.
+    - This video is also available in [Japanese](https://www.youtube.com/watch?v=AKKBuCinOKM), [Mandarin](https://www.youtube.com/watch?v=-MgOV6BQnl8), [Russian](https://www.youtube.com/watch?v=fFsJU7CKP-I), [Korean](https://www.youtube.com/watch?v=q4heFXEaZ0g), and [Cantonese (incomplete)](https://www.youtube.com/watch?v=8sMxMID96gM).
 
 ### Software
 - [qBitTorrent](https://www.qbittorrent.org/) Torrenting client. The only one worth a damn.
