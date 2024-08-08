@@ -1,9 +1,9 @@
 # Gwenily's List
 
-## Please install [uBlock Origin](https://github.com/gorhill/uBlock), regardless of if you use any resources listed here.
+## Please install [uBlock Origin](https://github.com/gorhill/uBlock) or [Brave Browser](https://brave.com/), regardless of if you use any resources listed here.
 uBlock is more than just an adblocker. It's a tracker blocker, malware blocker, phisher blocker. It's lightweight, and often makes virtually every site you visit faster as a result of removing stuff only meant to hurt you. Even aside from this list, but especially for resources in this list, you should have this installed. No, ABP is not good enough, and is shady. Use uBO.
-
-If your browser does not support [Manifest v2](https://www.youtube.com/watch?v=18VM1xZQdXc) extensions, use [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh). Brave and Firefox will both support Manifest v2 into the future, so I recommend switching to one of those to use non-lite uBlock. Not to mention userscripts.
+Soon, uBO will break on chromium based browsers due to Google's push for [manifest v3](https://www.eff.org/deeplinks/2021/12/googles-manifest-v3-still-hurts-privacy-security-innovation) and its seemingly targeted approach to crippling adblock. If you want to use uBO, userscripts, and other extensions which rely on how manifest v2 handles extensions, please switch to [Firefox](https://www.mozilla.org/en-US/firefox/new/) and harden it (resources below).
+If you want to keep using a chromium based browser, Brave is the only one i can recommend for a number of reasons. On the ad/tracker blocking front, Brave comes with Brave Shields, which is a built in ad/tracker blocker that uses the same lists as uBO, however the control and customization is not as flexible as uBO is. If you insist on using a chromium based browser that isn't Brave, at least install [uBO Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh).
 
 ## Notice any typos, broken links, or out-of-date information? 
 Please open an [issue](https://github.com/gwenily/gwenilys-list/issues), or create a [pull request](https://github.com/gwenily/gwenilys-list/fork).
